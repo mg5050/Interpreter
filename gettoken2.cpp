@@ -1,4 +1,4 @@
-//
+//  Professor supplied file
 //  gettoken.cpp
 //  p2lexer
 //
